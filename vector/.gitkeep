@@ -1,0 +1,38 @@
+
+```
+#include<iostream>
+using namespace std;
+#include<vector>
+
+int main()
+{
+     vector<int>vec={'a','b','c','d'};
+     cout<<"size = "<<vec.size()<<endl;
+
+     vector<int>num;
+
+     cout<<"size = "<<num.size()<<endl;
+
+     num.push_back(25);// push_back==add kora
+     num.push_back(35);
+     num.push_back(20);
+     num.push_back(10);
+
+
+     cout<<"After push back size "<<num.size()<<endl;//3
+     cout<<"capacity ="<<num.capacity()<<endl;//4
+
+     num.pop_back();//remove value 20
+
+     cout<<num.back()<<endl;//print last value 35
+
+     cout<<num.front()<<endl;//print first value 25
+
+     cout<<num.at(1)<<endl; //print index value
+
+     for(int i: num)
+        cout<<"number= "<<i<<endl;
+
+     return 0;
+}
+```
