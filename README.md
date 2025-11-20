@@ -1,0 +1,46 @@
+# DSA in C++ Learning 🚀
+
+![Language](https://img.shields.io/badge/language-C++-blue.svg)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/DSA-in-Cpp-learning)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/DSA-in-Cpp-learning)
+![Stars](https://img.shields.io/github/stars/your-username/DSA-in-Cpp-learning?style=social)
+
+---
+
+## 📖 About
+এই রিপোজিটরিতে আমি Data Structures এবং Algorithms (DSA) শিখছি এবং C++ দিয়ে প্র্যাকটিস করছি।  
+এখানে বিভিন্ন টপিক অনুযায়ী কোড, উদাহরণ এবং নোটস থাকবে।
+
+---
+
+## 📂 Repository Structure
+- `Arrays/` → Array সম্পর্কিত সমস্যা ও সমাধান  
+- `LinkedList/` → Linked List এর ইমপ্লিমেন্টেশন ও সমস্যা  
+- `StackQueue/` → Stack এবং Queue এর কোড  
+- `Sorting/` → বিভিন্ন Sorting Algorithm  
+- `Searching/` → Searching Techniques  
+- `Recursion/` → Recursion ভিত্তিক সমস্যা  
+- `DynamicProgramming/` → DP সমস্যা ও সমাধান  
+
+---
+
+## 🎯 Goals
+- DSA এর বেসিক থেকে অ্যাডভান্সড কনসেপ্ট শিখা  
+- Competitive Programming এর জন্য প্রস্তুতি নেওয়া  
+- Problem-solving স্কিল উন্নত করা  
+
+---
+
+## 🛠️ Language & Tools
+- **Language:** C++  
+- **IDE/Compiler:** VS Code / g++  
+
+---
+
+## 🤝 Contribution
+এটা আমার লার্নিং রিপোজিটরি। তবে যদি কোনো সাজেশন বা ইমপ্রুভমেন্ট থাকে, Pull Request করতে পারো।  
+
+---
+
+## 📜 License
+এই রিপোজিটরি শুধুমাত্র লার্নিং পারপাসে।  
